@@ -1,0 +1,1 @@
+import sortCharacters from './js/app';
